@@ -1,0 +1,36 @@
+==================================================
+ LAPORAN ANALISIS PENJUALAN SPAREPART 
+==================================================
+
+Total Seluruh Produk Terjual : 1148 unit
+Rata-rata Stok Awal Toko     : 35.70 unit
+
+Produk Terlaris:
+- Nama Produk : Bumper Depan
+- Kendaraan   : Avanza 2012
+- Jumlah Laku : 155 unit
+
+Produk Penjualan Terendah:
+- Nama Produk : Tabung Hawa
+- Kendaraan   : Innova 2012
+- Jumlah Laku : 1 unit
+
+Total Penjualan Berdasarkan Tipe Kendaraan:
+      Tipe Kendaraan  Terjual
+         Avanza 2012      402
+         Innova 2012      167
+         Innova 2010       98
+         Avanza 2010       95
+    Innova 2012-2014       72
+    Innova 2005-2012       53
+         Avanza 2009       52
+           Rush 2012       51
+       Fortuner 2012       47
+     Rush 2010- 2016       23
+       2010 Fortuner       21
+     G Fortuner 2012       18
+       Fortuner 2010       16
+Fortuner, Hilux 2012       16
+           Rush 2007       10
+           RUSH 2012        4
+  Innova Bensin 2012        3

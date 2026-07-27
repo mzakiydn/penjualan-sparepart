@@ -1,0 +1,51 @@
+No,Nama Produk,Tipe Kendaraan,Stok Awal,Terjual
+1,Bumper Depan,Fortuner 2010,29,16
+2,Bumper Depan,Innova 2010,65,51
+3,Bumper Depan,Avanza 2012,165,155
+4,Bumper Depan,Rush 2012,36,14
+5,Bumper Belakang,Innova 2012,36,25
+6,Bumper Belakang,Fortuner 2012,27,10
+7,Bumper Belakang,Avanza 2010,21,12
+8,Kap Mesin,Avanza 2012,38,23
+9,Kaca Depan,Avanza 2010,48,38
+10,Kaca Depan,"Fortuner, Hilux 2012",28,16
+11,Kaca Depan,Rush 2010- 2016,35,23
+12,Kaca Bagasi,Avanza 2012,22,10
+13,Kaca Bagasi,Innova 2012,20,13
+14,Kaca Bagasi,Fortuner 2012,14,7
+15,Lampu Besar RH,Innova 2012-2014,62,56
+16,Lampu Besar RH,Avanza 2012,70,59
+17,Lampu Besar RH,G Fortuner 2012,25,11
+18,Lampu Besar RH,Rush 2012,12,4
+19,Lampu Besar LH,Innova 2012-2014,28,16
+20,Lampu Besar LH,Avanza 2012,90,74
+21,Lampu Besar LH,G Fortuner 2012,15,7
+22,Lampu Besar LH,Rush 2012,15,7
+23,Lampu Stop RH,Innova 2012,60,48
+24,Lampu Stop RH,Avanza 2012,70,59
+25,Lampu Stop RH,Fortuner 2012,16,11
+26,Lampu Stop RH,RUSH 2012,12,4
+27,Lampu Stop LH,Innova 2012,65,47
+28,Lampu Stop LH,Fortuner 2012,20,12
+29,Lampu Stop LH,Rush 2012,21,10
+30,Foglamp RH,Innova 2012,25,6
+31,Foglamp LH,Avanza 2012,40,18
+32,Grilld BUMPER,Innova 2012,50,27
+33,Radiator,Innova Bensin 2012,15,3
+34,Radiator,Avanza 2009,50,43
+35,Spion RH,Rush 2012,35,12
+36,Spion RH,Avanza 2010,40,19
+37,Spion RH,Innova 2005-2012,50,33
+38,Spion LH,Rush 2012,18,4
+39,Spion LH,Avanza 2010,29,15
+40,Spion LH,Innova 2005-2012,35,20
+41,Tabung Hawa,Innova 2012,15,1
+42,Liner FR RH,Innova 2010,30,21
+43,Liner FR RH,Avanza 2010,29,11
+44,Liner FR RH,Fortuner 2012,20,7
+45,Liner FR LH,Innova 2010,30,26
+46,Liner FR LH,2010 Fortuner,30,21
+47,Liner FR LH,Avanza 2012,17,4
+48,Shock FR RH,Rush 2007,20,5
+49,Shock FR RH,Avanza 2009,25,9
+50,Shock FR LH,Rush 2007,17,5
