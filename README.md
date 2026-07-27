@@ -14,6 +14,9 @@ Proyek ini dibuat untuk menganalisis data penjualan komponen sparepart mobil (se
 Dataset proyek ini diambil langsung dari Kaggle melalui link berikut:
 https://www.kaggle.com/datasets/zahrasyakiranabilla/penjualan-sparepart
 
+Link Project : https://github.com/mzakiydn/penjualan-sparepart
+Link Youtube : https://youtu.be/vJf4TUabRB4
+
 Cara Menjalankan Program:
 1. Install Library Dahulu:
    Pastikan laptop sudah terinstal library pandas dan matplotlib. Jika belum, buka terminal di VS Code lalu ketik:
